@@ -47,7 +47,10 @@
 // let  map = numeros.map ((numero) =>  numero % 2 === 0);
 // console.log(map);
 
-// EXERCICIO-4
-const precos = [15, 30, 8, 22, 12 ]
-let map = precos.filter((precos)  => precos <= 20);
-console.log(filter);
+// // EXERCICIO-4
+// const precos = [15, 30, 8, 22, 12 ]
+// let filter = precos.filter((precos)  => precos <= 20);
+// console.log(filter);
+
+// EXERCICIO-5
+
