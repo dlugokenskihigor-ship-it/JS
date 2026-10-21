@@ -53,4 +53,10 @@
 // console.log(filter);
 
 // EXERCICIO-5
+const numeros  = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+let filter = numeros.filter((numeros) => numeros % 2 == 1 );
 
+let map = numeros.map((numeros)  => numeros * 1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+
+ console.log(filter);
+ console.log(map);
